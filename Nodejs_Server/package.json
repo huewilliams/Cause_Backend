@@ -1,0 +1,17 @@
+{
+  "name": "cause",
+  "version": "1.0.0",
+  "description": "ifHackathon project cause with team Phantom",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "author": "huewilliams",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "morgan": "^1.9.1",
+    "mysql": "^2.16.0",
+    "uuid": "^3.3.2"
+  }
+}
