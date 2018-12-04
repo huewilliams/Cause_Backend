@@ -1,4 +1,5 @@
 # Cause_Server
+AWS directory : Cause_Servers_end/Nodejs_Server
 
 ## Technical Stack  
 ### Language  
